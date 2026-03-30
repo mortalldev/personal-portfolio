@@ -1,6 +1,6 @@
 import {
   SiHtml5,
-  SiCss3,
+  SiCss,
   SiJavascript,
   SiTypescript,
   SiReact,
@@ -8,15 +8,12 @@ import {
   SiTailwindcss,
   SiNodedotjs,
   SiMongodb,
-  SiMysql,
   SiFirebase,
   SiGit,
   SiFigma,
   SiBootstrap,
   SiMui,
   SiCanva,
-  SiAdobeillustrator,
-  SiAdobephotoshop,
   SiFreelancer,
 } from "react-icons/si";
 import { IconType } from "react-icons";
@@ -28,7 +25,7 @@ export const getSkillIcon = (skill: string): IconType => {
     case "html":
       return SiHtml5;
     case "css":
-      return SiCss3;
+      return SiCss;
     case "javascript":
       return SiJavascript;
     case "js":
@@ -52,8 +49,6 @@ export const getSkillIcon = (skill: string): IconType => {
       return SiNodedotjs;
     case "mongodb":
       return SiMongodb;
-    case "mysql":
-      return SiMysql;
     case "firebase":
       return SiFirebase;
     case "git":
@@ -67,10 +62,6 @@ export const getSkillIcon = (skill: string): IconType => {
       return SiMui;
     case "canva":
       return SiCanva;
-    case "illustrator":
-      return SiAdobeillustrator;
-    case "photoshop":
-      return SiAdobephotoshop;
     default:
       return SiFreelancer; // Fallback icon
   }

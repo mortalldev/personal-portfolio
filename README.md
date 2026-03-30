@@ -19,10 +19,7 @@ Welcome to my **developer portfolio** built with **Next.js 15**, **Tailwind CSS*
 - ⚡ **Framework**: [Next.js 15](https://nextjs.org/)
 - 🎨 **Styling**: [Tailwind CSS 3](https://tailwindcss.com/)
 - 💻 **TypeScript**: Fully typed components & utilities
-- 🧩 **Animations**: [Lottie React](https://www.npmjs.com/package/lottie-react)
 - 📧 **Contact**: [EmailJS](https://www.emailjs.com/) integration
-- 📦 **PWA Ready**: Uses [`@ducanh2912/next-pwa`](https://www.npmjs.com/package/@ducanh2912/next-pwa)
-- 🔐 **reCAPTCHA v3**: [Google reCAPTCHA](https://www.npmjs.com/package/react-google-recaptcha)
 - 🧠 **Icons**: [Lucide](https://lucide.dev/), [React Icons](https://react-icons.github.io/)
 - ✅ **Prettier + ESLint**: Enforced code style & formatting
 - 🧪 **Husky**: Git hooks for pre-commit checks
@@ -106,8 +103,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 Got a project in mind or just want to say hi?
 
-📧 [t.mukhammedjohn@gmail.com](mailto:t.mukhammedjohn@gmail.com)
-
-```
-
-```
+📧 [t.mukhammedjohn@gmail.com](mailto:t.mukhammedjohn@gmail.com)s

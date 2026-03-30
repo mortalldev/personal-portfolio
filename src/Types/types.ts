@@ -1,9 +1,5 @@
 import { ReactNode } from "react";
 
-export interface AnimationLottieProps {
-  animationPath: object; // JSON object for the animation data.
-  width?: string | number; // Optional width prop for customization.
-}
 export interface GlowCardProps {
   children: ReactNode;
   identifier: string;
