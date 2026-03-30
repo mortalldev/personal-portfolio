@@ -30,7 +30,7 @@ const Navbar = () => {
 
     window.addEventListener("scroll", handleScroll);
     return () => window.removeEventListener("scroll", handleScroll);
-  }, []);
+  }, [scrollY]);
 
   const renderLink = (
     item: { label: string; to: string },
