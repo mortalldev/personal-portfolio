@@ -16,5 +16,5 @@ export const personalData = {
   devUsername: "MORTAL DEV",
   leetcode: "https://leetcode.com/u/mortal_dev",
   resume:
-    "https://drive.google.com/file/d/17sLyf4mmx-wSVlWRkgT3NbJIl9hIauvT/view?usp=sharing",
+    "https://drive.google.com/file/d/1ArH2s6o-BG3B9jj4NnwHaO2Z3N5kRqQl/view?usp=sharing",
 };
